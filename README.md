@@ -22,10 +22,10 @@ Aspiring Web developer
 
 I've been learning to code since last year after switching my career. Started with C++ and some intermediate DSA , now I'm focusing on Web development.
 
-*   🌍  I'm based in Haridwar
+*   🌍  I'm based in Haridwar.
 *   ✉️  You can contact me at [Addy.mishra10@gmail.com](mailto:Addy.mishra10@gmail.com)
-*   🧠  I'm learning Javascript
-*   ⚡  Part-time Athlete### Skills 
+*   🧠  Currently learning Javascript and react.
+*   ⚡  Part-time Athlete,Cricket and Football
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
