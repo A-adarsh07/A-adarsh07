@@ -20,7 +20,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Web developer
 ----------------------
 
-I've been learning to code since last year after switching my career. Started with C++ and some intermediate DSA , now I'm focusing on Web development.
+
+i switched my career last year and after that dedicated my whole time to coding and web-development. Started with C++ and some intermediate DSA , now I'm focusing on Web development.
 
 *   🌍  I'm based in Haridwar.
 *   ✉️  You can contact me at [Addy.mishra10@gmail.com](mailto:Addy.mishra10@gmail.com)
