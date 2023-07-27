@@ -24,7 +24,7 @@ Aspiring Web developer
 i switched my career last year and after that dedicated my whole time to coding and web-development. Started with C++ and some intermediate DSA , now I'm focusing on Web development.
 
 *   🌍  I'm based in Haridwar.
-*   ✉️  You can contact me at [Addy.mishra10@gmail.com](mailto:Addy.mishra10@gmail.com)
+*   ✉️  You can contact me at [aadarshmishra1100@gmail.com](mailto:aadarshmishra1100@gmail.com)
 *   🧠  Currently learning Javascript and react.
 *   ⚡  Part-time Athlete,Cricket and Football
 <p align="left">
