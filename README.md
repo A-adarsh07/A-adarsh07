@@ -25,7 +25,7 @@ i switched my career last year and after that dedicated my whole time to coding 
 
 *   🌍  I'm based in Haridwar.
 *   ✉️  You can contact me at [addy.mishra10@gmail.com](mailto:addy.mishra10@gmail.com)
-*   🧠  Currently learning Javascript and react.
+*   🧠  Currently learning Javascript and NodeJs.
 *   ⚡  Part-time Athlete,Cricket and Football
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
