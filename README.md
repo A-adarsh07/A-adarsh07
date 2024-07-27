@@ -21,7 +21,7 @@ Aspiring Web developer
 ----------------------
 
 
-i switched my career last year and after that dedicated my whole time to coding and web-development. Started with C++ and some intermediate DSA , now I'm focusing on Web development.
+Currently Working as Network/Cloud Engineer,Learning Backend Engineering in Nodejs , MongoDB,TypeScript.
 
 *   🌍  I'm based in Haridwar.
 *   ✉️  You can contact me at [addy.mishra10@gmail.com](mailto:addy.mishra10@gmail.com)
