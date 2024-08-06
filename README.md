@@ -21,7 +21,7 @@ Aspiring Web developer
 ----------------------
 
 
-Currently Working as Network/Cloud Engineer,Learning Backend Engineering in Nodejs , MongoDB,TypeScript.
+Currently Working as Network/Cloud Engineer. Learning Backend Engineering(Node.js).
 
 *   🌍  I'm based in Haridwar.
 *   ✉️  You can contact me at [addy.mishra10@gmail.com](mailto:addy.mishra10@gmail.com)
