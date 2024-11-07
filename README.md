@@ -21,7 +21,7 @@ Aspiring Software Developer
 ----------------------
 
 
-Currently Working as Network/Cloud Engineer. Learning Backend Engineering(Node.js).
+Currently Working as Associate Software Engineer. Learning and Contributing in Backend Engineering.
 
 *   🌍  I'm based in Haridwar.
 *   ✉️  You can contact me at [addy.mishra10@gmail.com](mailto:addy.mishra10@gmail.com)
