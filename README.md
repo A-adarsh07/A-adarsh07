@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adarsh Mishra
 =====================================================================================================================================
 
-Aspiring Software Developer
+Backend Developer
 ----------------------
 
 
-Currently Working as Associate Software Engineer. Learning and Contributing in Backend Engineering.
+Currently Working as Associate Software Engineer in Accenture (Gurugram). Learning and Contributing in Backend Engineering.
 
 *   🌍  I'm based in Haridwar.
 *   ✉️  You can contact me at [addy.mishra10@gmail.com](mailto:addy.mishra10@gmail.com)
