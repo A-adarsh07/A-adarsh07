@@ -21,7 +21,7 @@ Backend Developer
 ----------------------
 
 
-Currently Working as an Associate Software Engineer at Accenture (Gurugram). Learning and Contributing in Backend Engineering.
+Currently Working as an Associate Software Engineer at Accenture (Gurugram).
 
 *   🌍  I'm based in Haridwar.
 *   ✉️  You can contact me at [addy.mishra10@gmail.com](mailto:addy.mishra10@gmail.com)
